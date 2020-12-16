@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import './server';
 import * as serviceWorker from './serviceWorker';
 var PORT = process.env.PORT || 3000;
 ReactDOM.render(
